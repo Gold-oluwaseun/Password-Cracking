@@ -63,8 +63,13 @@ To improve password security:
 This practical exercise strengthened my understanding of password security and provided hands-on experience with two password-cracking tools: NetworkWalks and John the Ripper.
 
 It reinforced the importance of strong authentication practices and the need for individuals and organisations to protect their accounts against password-based attacks.
+## 8. Practical Evidence
 
----
+### NetworkWalks Password-Cracking Tool
+
+![NetworkWalks Password Cracking](evidence/networkwalks-password-cracking.png)
+
+![NetworkWalks Hash Cracking](evidence/networkwalks-hash-cracking.png)
 
 **Author:** Oluwaseun Feyisayo Olatunji  
 **LinkedIn:** [Oluwaseun Olatunji](https://www.linkedin.com/in/oluwaseun-olatunji-b7790927b/)
