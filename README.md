@@ -67,9 +67,10 @@ It reinforced the importance of strong authentication practices and the need for
 
 ### NetworkWalks Password-Cracking Tool
 
+![NetworkWalks Hash Cracking](evidence/networkwalks-hash-cracking.png)
+
 ![NetworkWalks Password Cracking](evidence/networkwalks-password-cracking.png)
 
-![NetworkWalks Hash Cracking](evidence/networkwalks-hash-cracking.png)
 
 **Author:** Oluwaseun Feyisayo Olatunji  
 **LinkedIn:** [Oluwaseun Olatunji](https://www.linkedin.com/in/oluwaseun-olatunji-b7790927b/)
